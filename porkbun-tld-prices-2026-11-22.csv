@@ -1,0 +1,7 @@
+tld,first_year_usd,regular_price_usd,renewal_usd,two_year_total_usd,gap_usd,source_url,checked_date,note
+.org,7.98,11.84,11.84,19.82,3.86,https://porkbun.com/tld/org,2026-11-22,
+.xyz,1.29,14.21,14.21,15.50,12.92,https://porkbun.com/tld/xyz,2026-11-22,
+.lol,1.54,26.26,26.26,27.80,24.72,https://porkbun.com/tld/lol,2026-11-22,
+.cloud,3.88,21.11,21.11,24.99,17.23,https://porkbun.com/tld/cloud,2026-11-22,
+.inc,257.98,2060.25,2060.25,2318.23,1802.27,https://porkbun.com/tld/inc,2026-11-22,
+.com,11.81,11.81,11.81,23.62,0.00,https://porkbun.com/tld/com,2026-11-22,"page prints a single Registration field, no first-year/regular split"
